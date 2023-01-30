@@ -1,0 +1,14 @@
+{
+    "UK_company_house": [
+        {"index": 1, "colName": "id", "alias": "id"},
+        {"index": 2, "colName": "company_number", "alias": "company_number"},
+        {"index": 3, "colName": "confirmation_statement.next_made_up_to", "alias": "confirmation_statement_next_made_up_to"},
+        {"index": 4, "colName": "confirmation_statement.next_due", "alias": "confirmation_statement_next_due"},
+        {"index": 5, "colName": "company_name", "alias": "company_name"},
+        {"index": 6, "colName": "previous_company_names.name", "alias": "previous_company_names_name"},
+        {"index": 7, "colName": "accounts.last_accounts.period_end_on", "alias": "accounts_last_accounts_period_end_on"},
+        {"index": 8, "colName": "jurisdiction", "alias": "jurisdiction"},
+        {"index": 9, "colName": "registered_office_address.locality", "alias": "registered_office_address_locality"},
+        {"index": 10, "colName": "registered_office_address.country", "alias": "registered_office_address_country"}
+    ]
+}
